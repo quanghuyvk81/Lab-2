@@ -4,7 +4,7 @@
 # @Student: please install these packages for constructing stable development environment.
 jupyterlab>=3.6.8 # update from jupyterlab==3.6.3 to jupyterlab>=3.6.8 for HTML injection in Jupyter Notebook and JupyterLab leading to DOM Clobbering
 jupyter_contrib_nbextensions==0.5.1
-requests==2.31.0
+requests==2.32.2
 requests-cache==1.1.0
 urllib3==1.26.19
 beautifulsoup4==4.12.2
